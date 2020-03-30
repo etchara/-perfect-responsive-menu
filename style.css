@@ -2,9 +2,13 @@
 	display: none;
 }
 
-.noscroll {
+body {
 	overflow: hidden;
 	font-family: sans-serif;
+}
+
+.noscrool{
+	overflow:hidden;
 }
 
 @media ( max-width: 40rem ) {
