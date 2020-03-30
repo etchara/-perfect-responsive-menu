@@ -2,7 +2,7 @@
 	display: none;
 }
 
-body {
+.noscroll {
 	overflow: hidden;
 	font-family: sans-serif;
 }
